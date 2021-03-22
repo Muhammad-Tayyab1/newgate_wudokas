@@ -134,7 +134,7 @@ const MainSlider = () => {
                 <Carousel.Item interval={20000}>
                 <video type="video/mp4" className="" id="slider-video" preload="true" autoPlay muted>
                 {/* <video type="video/mp4" className="" id="slider-video" preload="true"> */}
-                  <source src={Video} type="video/mp4"></source>
+                  <source src={'https://youtu.be/rPx5SpBa0Ec'} type="video/mp4"></source>
                 </video>
                   <Carousel.Caption className="carousel-caption--custom">
                   <h3 >
