@@ -1,0 +1,179 @@
+[33mcommit bb3c9bfe1128458156d1071b67495b8a9198e631[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/development[m[33m)[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Wed Mar 17 22:42:42 2021 +0100
+
+    [update] get services datat with html
+
+[33mcommit 054610ea76f719bb7b38d4a8e366c638b259a45d[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Wed Mar 17 21:52:11 2021 +0100
+
+    [update] api fetch data max length increase
+
+[33mcommit 0c048bcf2689c68729ed467c379ccee9715041ae[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Wed Mar 17 21:37:40 2021 +0100
+
+    [fix] map resolution, our team section upper order
+
+[33mcommit d1003e1c209bf69cbd1699bcd9997ddb1c0c3a17[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Wed Mar 17 00:41:15 2021 +0100
+
+    [update] slider
+
+[33mcommit 1d9069035ae62c8eabe4e3f1df1c367ad9452864[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 23:27:33 2021 +0100
+
+    [update] our teams remove hover event, sort people collection by order
+
+[33mcommit 3259372455237ea1d5d57a58caaf54d2e4ed84ac[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 23:18:47 2021 +0100
+
+    [up] pre slider comit
+
+[33mcommit 1cb72dee5d907f1c6ea869b7db0dffbcdb4918f3[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 21:57:56 2021 +0100
+
+    [update] change main slider image
+
+[33mcommit bc04ea9d78cf2077045b6fa917d90506c172dedf[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 21:54:41 2021 +0100
+
+    [update] msin slider text
+
+[33mcommit 69a9ca4df29e8ec91e59e9fe5dd4267a282ae179[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 21:31:26 2021 +0100
+
+    [update] mainslider photo, our teams fix
+
+[33mcommit f518d8c986c081f447448b36a2e9d3f4fb5d418a[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 21:14:44 2021 +0100
+
+    [update] add main slider images, get metadata from wp
+
+[33mcommit ebdae2c665258a7228964806bf112379b000a579[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 20:49:24 2021 +0100
+
+    [fix] navigation
+
+[33mcommit e9adea5a5b7dafc1c98202ef4af459ea061765c8[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 20:47:17 2021 +0100
+
+    [update] texts, our team hover
+
+[33mcommit 3e2119a13154baa006352763bd5a138d9ff0b0fb[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 20:01:21 2021 +0100
+
+    [fix] clean
+
+[33mcommit 6b9eef8f3cd865148cbabb4afcb5f2ed802d24de[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 17:14:06 2021 +0100
+
+    [fix] config 2
+
+[33mcommit ad85a6bf5f3e2f2ca5f06e2d287c072f5e474919[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 17:12:15 2021 +0100
+
+    [fix[ config
+
+[33mcommit 355b53fa0ad404f3ab2e90f06e6cd5efe6d88347[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 17:07:39 2021 +0100
+
+    [fix] images
+
+[33mcommit 45589c5d37686b61c72d9f6470fc4819f9a5fb6c[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 16:33:29 2021 +0100
+
+    [fix]
+
+[33mcommit 5205baacc718f0c1cf4ab0a2f73d85799525df02[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 16:30:32 2021 +0100
+
+    [fix]
+
+[33mcommit 70d2e367ad09ad157262ef090a0cb28a39e957fd[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 03:09:11 2021 +0100
+
+    fixes
+
+[33mcommit de51f14cd1a2439879e79253f885b56c337c84a9[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Tue Mar 16 03:04:35 2021 +0100
+
+    [update] assets
+
+[33mcommit f4813c72d7dd16f60c91f12a64513a7b7e0b60cf[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Mon Mar 15 01:39:40 2021 +0100
+
+    [update] mobile fixes
+
+[33mcommit c337f650364ac02cd3e97806b303a7c52ced54b8[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Sun Mar 14 23:34:14 2021 +0100
+
+    [update] industries, scss fixes
+
+[33mcommit 0bd7a9bfb35a5a701467ef38432d089e21c1d15a[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Sun Mar 14 20:39:52 2021 +0100
+
+    [update] people carousel
+
+[33mcommit eb909e287e8043b992c617159fe160ed3a72a158[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Sun Mar 14 04:31:07 2021 +0100
+
+    [fixes]
+
+[33mcommit 738a9639fa83e1b51a993cc6d73184edb9c3537a[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Sun Mar 14 02:33:28 2021 +0100
+
+    [menu]
+
+[33mcommit 0ec48b15cef5c783230945a6268f57e0f4c3798e[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Fri Mar 12 20:31:41 2021 +0100
+
+    [update] refactor
+
+[33mcommit 70a110835336350a868f08e0f49a2f3870899eb8[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Fri Mar 12 19:26:07 2021 +0100
+
+    [fix] style
+
+[33mcommit 1912b2f8bd7af3422344bf5f90d77976278e0c5b[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Fri Mar 12 19:19:45 2021 +0100
+
+    [update
+
+[33mcommit da53a8d8448313797ee631adc943976f7980edd2[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Fri Mar 12 14:38:34 2021 +0100
+
+    init
+
+[33mcommit 3786a85ee32310c5f64d635eb2b9cbaf6050eada[m
+Author: t-media-karol-kawski <48217542+t-media-karol-kawski@users.noreply.github.com>
+Date:   Fri Mar 12 13:34:32 2021 +0100
+
+    Initial commit from gatsby: (https://github.com/gatsbyjs/gatsby-starter-default.git)
